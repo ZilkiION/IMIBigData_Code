@@ -102,6 +102,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * Ernest Namdar - [@LinkedIn](https://www.linkedin.com/in/ernest-namdar/) - ernest.namdar@utoronto.ca
 * Tushar Raju - [@LinkedIn](https://www.linkedin.com/in/tushar-raju/) - tushar.raju@rotman.utoronto.ca
+* Amelyn Wang - [@LinkedIn](https://www.linkedin.com/in/pinchien-wang/) - amelyn.wang@rotman.utoronto.ca
 
 Project Link: [https://github.com/knamdar/IMI_BIGData_AI_Comp](https://github.com/knamdar/IMI_BIGData_AI_Comp)
 
